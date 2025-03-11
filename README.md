@@ -12,4 +12,4 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-**DESCRIPTION**: 
+**DESCRIPTION**: This project focuses on building and visualizing a Decision Tree classifier using scikit-learn to predict the classification of breast cancer tumors as malignant or benign. The dataset used is the Breast Cancer Wisconsin dataset, which contains 30 numerical features related to tumor characteristics. The data is split into training and testing sets, and a Decision Tree model is trained using the Gini impurity criterion with a maximum depth of 4. After training, the model's performance is evaluated using accuracy, and the decision tree structure is visualized to understand how the model makes decisions based on different tumor features. 
